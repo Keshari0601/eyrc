@@ -1,0 +1,9 @@
+<launch>
+  
+    <node pkg = "pollinator_bee" type = "task_1.2.py" name = "task_1.2" />
+  
+    <node pkg = "pollinator_bee" type = "task_1.1.py" name = "task_1.1" output = "screen"  />
+
+    <node pkg="rosbag" type="record" name="record" args="-O /home/bhuvan/Desktop/archit.bag whycon/poses --duration=35s" output="screen"/>
+
+</launch>
