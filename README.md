@@ -1,7 +1,7 @@
 # eyrc
 E-Yantra is a Robotics competition organised by IIT BOMBAY. There is qualifire rounds and virtual implementation of a theme. On the basis of performance they choose the teams and provide them materials to complete the project practically.
 
-The following source is also available on google-drive link:
+The following source is also available on google-drive link:https://drive.google.com/drive/folders/19Mhyz_KdbYRsKBuYKrSe5va6OawfPsyq?usp=sharing
 
 
 Another google drive link because videos can be played there easily.
